@@ -34,7 +34,7 @@ html, body {
   .education,.languages,
   .contact, .experience {
     padding: 40px;
-    min-height: 330px;
+    min-height: 230px;
   }
   
   .education, .languages,
@@ -45,7 +45,7 @@ html, body {
     
   header {
     text-align: center;
-    min-height: 400px;
+    min-height: 100px;
     overflow: hidden;
     position: relative;
     padding-top: 160px;
